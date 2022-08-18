@@ -12,7 +12,6 @@ public class ex_fatorial_recursivo {
 
     }
     private  static int calFatorial(int i){
-
         if (i == 0){
             return 1;
         } else {
